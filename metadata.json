@@ -1,0 +1,6 @@
+{
+  "name": "SIKA — Seputar Informasi Kereta Api",
+  "description": "Aplikasi informasi cepat pembangunan perkeretaapian Indonesia dan KRL Jabodetabek untuk Balai Teknik Perkeretaapian Kelas I Jakarta dengan triage isu AI serta notifikasi update real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
